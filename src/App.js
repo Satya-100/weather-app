@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
@@ -12,16 +12,6 @@ import Signup from './Signup';
 import Login from './Login';
 import SavedLocations from './SavedLocations';
 import './App.css';
-// import React, { useState, useEffect } from 'react';
-// import axios from 'axios';
-// import Header from './components/Header';
-// import CurrentLocation from './components/CurrentLocation';
-// import HourSection from './components/HourSection';
-// import DaysSection from './components/DaysSection';
-// import Overview from './components/Overview';
-// import ErrorComponent from './components/ErrorComponent';
-// import SavedLocations from './components/SavedLocations';
-// import './App.css';
 
 const App = () => {
   const [weatherData, setWeatherData] = useState(null);
