@@ -8,8 +8,8 @@ import HourSection from './HourSection';
 import DaysSection from './DaysSection';
 import Overview from './Overview';
 import ErrorComponent from './ErrorComponent';
-import Signup from './Signup';
-import Login from './Login';
+// import Signup from './Signup';
+// import Login from './Login';
 import SavedLocations from './SavedLocations';
 import './App.css';
 
