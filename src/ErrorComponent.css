@@ -1,0 +1,19 @@
+.error-message {
+    color: red;
+    background-color: #f8d7da;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .error-message button {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  
